@@ -219,7 +219,7 @@ dial-peer voice 4 pots
    port 0/0/3
 end
 
-!!IP telephony or Six Digit Salary.
+!!IP telephony or Six Digit Salary. (paste 3 times)
 config t   
 no telephony-service
 telephony-service
@@ -670,6 +670,7 @@ exit
           
 sip-ua
 sip-server ipv4:192.168.k.1
+
 
 
 
